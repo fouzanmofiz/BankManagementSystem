@@ -131,4 +131,4 @@ This overview provides a foundational understanding of the Bank Management Syste
 
 ### Tech Stack used
 
-* Java,JavaFX,MySQL,OOPs,JDBC
+* Java, JavaFX, MySQL, OOPs, JDBC
